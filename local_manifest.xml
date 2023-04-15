@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com" name="github" />
+  <project name="LineageOS-MediaTek/android_device_motorola_nicklaus" path="device/motorola/nicklaus" remote="github" revision="cm-14.1" />
+  <project name="speck99/kernel-mtk" path="kernel/motorola/nicklaus" remote="github" revision="nougat" />
+  <project name="LineageOS-MediaTek/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.1" />
+  <project name="LineageOS-MediaTek/android_device_mediatek_mt6737-common" path="device/mediatek/mt6737-common" remote="github" revision="cm-14.1" />
+</manifest>
